@@ -11,25 +11,42 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+ring_layout is a ui component that helps you build ring layouts.
+
+Support Android and iOS platforms
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Run this command:
+
+With Flutter:
+
+```
+ $ flutter pub add ring_layout
+```
+
+This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+
+```
+dependencies:
+  ring_layout: ^1.0.1
+```
+
+Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
+```
+RingLayout(
+  initAngle: _controller.value * 360,
+  children: List.generate(
+    9,
+    (index) =>
+        buildPoint(width: 80, height: 80, color: Colors.blue),
+  ),
+);
 ```
 
 ## Additional information
@@ -37,3 +54,9 @@ const like = 'sample';
 TODO: Tell users more about the package: where to find more information, how to 
 contribute to the package, how to file issues, what response they can expect 
 from the package authors, and more.
+
+## Getting Started
+
+For help getting started with Flutter, view our online [documentation](https://flutter.io/).
+
+For help on editing plugin code, view the [documentation](https://flutter.io/developing-packages/#edit-plugin-package).
