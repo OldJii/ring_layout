@@ -1,6 +1,6 @@
 name: ring_layout
 description: A dark package that helps you build ring layouts, supported both iOS and Android.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/oldjii/ring_layout
 
 environment:

@@ -9,3 +9,7 @@
 ## 1.0.3
 
 * update supports platforms
+
+## 1.0.4 
+
+* update README.md
