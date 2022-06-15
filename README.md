@@ -17,6 +17,8 @@ ring_layout is a ui component that helps you build ring layouts.
 
 Support Android and iOS platforms
 
+![](https://imgoldjii.oss-cn-beijing.aliyuncs.com/屏幕录制2022-06-15-上午10.41.11.gif)
+
 ## Getting started
 
 Run this command:

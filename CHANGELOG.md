@@ -17,3 +17,7 @@
 ## 1.0.5
 
 * update README.md
+
+## 1.0.6
+
+* update README.md
