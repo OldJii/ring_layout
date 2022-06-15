@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://imgoldjii.oss-cn-beijing.aliyuncs.com/屏幕录制2022-06-15-上午10.41.11.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

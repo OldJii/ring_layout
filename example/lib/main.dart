@@ -61,9 +61,9 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                 return RingLayout(
                   initAngle: _controller.value * 360,
                   children: List.generate(
-                    9,
+                    10,
                     (index) =>
-                        buildPoint(width: 80, height: 80, color: Colors.blue),
+                        buildPoint(width: 60, height: 60, color: Colors.blue),
                   ),
                 );
               },
