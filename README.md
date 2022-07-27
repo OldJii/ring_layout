@@ -24,7 +24,6 @@ Support Android and iOS platforms
 Run this command:
 
 With Flutter:
-
 ```
  $ flutter pub add ring_layout
 ```
