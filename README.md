@@ -12,7 +12,6 @@ and the Flutter guide for
 -->
 
 ## Features
-
 ring_layout is a ui component that helps you build ring layouts.
 
 Support Android and iOS platforms
@@ -22,7 +21,6 @@ Support Android and iOS platforms
 </div>
 
 ## Getting started
-
 Run this command:
 
 With Flutter:
@@ -41,7 +39,6 @@ dependencies:
 Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
 
 ## Usage
-
 ```
 RingLayout(
   initAngle: _controller.value * 360,
@@ -54,7 +51,6 @@ RingLayout(
 ```
 
 ## Getting Started
-
 For help getting started with Flutter, view our online [documentation](https://flutter.io/).
 
 For help on editing plugin code, view the [documentation](https://flutter.io/developing-packages/#edit-plugin-package).
