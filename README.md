@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1613750498788683776.svg?t=1)](https://www.murphysec.com/accept?code=9ed16c5df4276cea32a6f33d2adbde4d&type=1&from=2&t=2)
+
 ## Features
 ring_layout is a ui component that helps you build ring layouts.
 
